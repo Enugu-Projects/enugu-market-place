@@ -1,11 +1,10 @@
-# enugu-market-place
-A website that houses the businesses done in Enugu State. Both services and products
+# Enugu-Market-Place
+A website that houses the businesses done in Enugu State. Both services and products.
 
 ## Dependencies
 * [FontAwesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css "FontAwesome")
 * [GoogleFont](https://fonts.googleapis.com/css?family=Darker+Grotesque|Fredoka+One|Graduate&display=swap "GoogleFont")
 * [jQuery](https://code.jquery.com/jquery-3.4.1.min.js "jQuery")
-* [GoogleMap](https://www.google.com/maps/ "GoogleMap")
 * [npm](https://www.npmjs.com/ "npm")
 * [babel](https://babeljs.io/ "babel")
 * [gulp](https://gulpjs.com/ "gulp")
