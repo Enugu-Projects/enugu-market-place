@@ -1,0 +1,34 @@
+{
+  "name": "enugu-market-place",
+  "version": "1.0.0",
+  "description": "A website that houses the businesses done in Enugu State. Both services and products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBEREGIT/enugu-market-place.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EBEREGIT/enugu-market-place/issues"
+  },
+  "homepage": "https://github.com/EBEREGIT/enugu-market-place#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "gulp-cli": "^1.4.0",
+    "gulp-eslint": "^6.0.0"
+  }
+}
