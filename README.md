@@ -27,8 +27,18 @@ A website that houses the businesses done in Enugu State. Both services and prod
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please use the following steps in making your pull request:
+1. Fork the Project
+2. Create your Feature Branch <code>git checkout -b feature/AmazingFeature</code>
+3. Commit your Changes <code>git commit -m 'Add some AmazingFeature'</code>
+4. Push to the Branch <code>git push origin feature/AmazingFeature</code>
+5. Open a Pull Request
 
+### Naming Convention
+Please use the instructions [here](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices "here") as guid to best practices and naming conventions. 
+
+### Code of Conduct
+Please note we have a code of conduct, please follow it in all your interactions with the project.
 ### Pull Request Process
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
    build.
@@ -93,3 +103,7 @@ members of the project's leadership.
 This Code of Conduct is adapted from  [here](https://gist.githubusercontent.com/PurpleBooth/b24679402957c63ec426/raw/5c4f62c1e50c1e6654e76e873aba3df2b0cdeea2/Good-CONTRIBUTING.md-template.md "here")
 
 ## Licensing
+This project is [MIT licensed](https://github.com/Enugu-Projects/enugu-market-place/blob/master/LICENSE "MIT licensed")
+
+## Contact
+Njoku Samson Ebere - [@eberetwit](https://twitter.com/eberetwit "@eberetwit") - samsoneberenjoku@gmail.com
