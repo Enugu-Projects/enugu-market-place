@@ -1,0 +1,7 @@
+class Man{
+    constructor() {
+        state(
+            
+        );
+    }
+}
