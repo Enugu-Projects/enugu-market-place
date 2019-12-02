@@ -17,6 +17,7 @@ A website that houses the businesses done in Enugu State. Both services and prod
 * Navigate into the root folder
 * Open a terminal (bash preferably) from the folder
 * Run <code>npm install</code> to ensure that depencies are up to date
+* Install <code>gulp</code> if you haven't installed it initially using <code>npm install gulp -g</code>
 * Run the <code>gulp</code>
 * Wait a few seconds or minutes to see project open in your default browser on <code>port 8088</code>
 
