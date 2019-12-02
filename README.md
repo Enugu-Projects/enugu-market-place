@@ -1,4 +1,4 @@
-# Enugu-Market-Place
+Market Place
 A website that houses the businesses done in Enugu State. Both services and products.
 
 ## Dependencies
