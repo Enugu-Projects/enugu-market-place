@@ -24,6 +24,8 @@
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
     "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "run-sequence": "^2.2.1"
   },

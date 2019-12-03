@@ -1,0 +1,17 @@
+$lightGreen: rgb(13, 197, 136);
+$deepBlue: rgba(4, 28, 56, 0.747);
+$pureWhite: #fff;
+
+body{
+    background: $deepBlue;
+    text-align: center;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    h1{
+        color: $lightGreen;
+    }
+
+    h3{
+        color: $pureWhite;
+    }
+}
