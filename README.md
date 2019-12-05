@@ -1,4 +1,4 @@
-# Enugu-Market-Place
+# Market Place
 A website that houses the businesses done in Enugu State. Both services and products.
 
 ## Dependencies
@@ -17,7 +17,7 @@ A website that houses the businesses done in Enugu State. Both services and prod
 * Navigate into the root folder
 * Open a terminal (bash preferably) from the folder
 * Run <code>npm install</code> to ensure that depencies are up to date
-* open the <code>gulp</code> in any browser
+* Run the <code>gulp</code>
 * Wait a few seconds or minutes to see project open in your default browser on <code>port 8088</code>
 
 ### on the internet
@@ -32,7 +32,7 @@ Please use the following steps in making your pull request:
 2. Create your Feature Branch <code>git checkout -b feature/AmazingFeature</code>
 3. Commit your Changes <code>git commit -m 'Add some AmazingFeature'</code>
 4. Push to the Branch <code>git push origin feature/AmazingFeature</code>
-5. Open a Pull Request
+5. Make a Pull Request to the <code>develop</code> branch
 
 ### Naming Convention
 Please use the instructions [here](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices "here") as guid to best practices and naming conventions. 
